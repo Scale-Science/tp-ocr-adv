@@ -1,0 +1,11 @@
+{
+  // Cloudflare Worker that serves this repo as static files.
+  // The advertorial lives at /top-3-most-powerful-remineralizing-gums-tested-and-ranked/
+  "name": "tp-ocr-adv",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none"
+  }
+}
